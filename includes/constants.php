@@ -1,15 +1,15 @@
 <?php
 
     // your database's name
-    define("sql3514917", "db");
+    define("DATABASE", "sql3514917");
 
     // your database's username
-    define("sql3514917", "adeelh");
+    define("USERNAME", "sql3514917");
 
     // your database's password
-    define("lRPZS7zWTD", "adeel");
+    define("PASSWORD", "lRPZS7zWTD");
 
     // your database's server
-    define("sql3.freesqldatabase.com:3306", "localhost");
+    define("SERVER", "sql3.freesqldatabase.com:3306");
 
 ?>
