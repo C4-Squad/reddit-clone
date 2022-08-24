@@ -10,6 +10,6 @@
     define("PASSWORD", "lRPZS7zWTD");
 
     // your database's server
-    define("SERVER", "sql3.freesqldatabase.com:3306");
+    define("SERVER", "sql3.freesqldatabase.com");
 
 ?>
